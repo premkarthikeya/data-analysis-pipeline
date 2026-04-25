@@ -1,0 +1,12 @@
+Order_ID,Order_Date,Product,Category,Price,Quantity,Customer_City
+1001,2025-03-01,Mobile,Electronics,15000,2,Hyderabad
+1002,2025-03-01,Laptop,Electronics,55000,1,Vijayawada
+1003,2025-03-02,Headphones,Accessories,2000,3,Warangal
+1004,2025-03-02,Mouse,Accessories,800,5,Hyderabad
+1005,2025-03-03,Keyboard,Accessories,1500,2,Guntur
+1006,2025-03-03,Mobile,Electronics,15000,1,Nizamabad
+1007,2025-03-04,Laptop,Electronics,55000,1,Khammam
+1008,2025-03-04,Charger,Accessories,1000,4,Hyderabad
+1009,2025-03-05,Tablet,Electronics,25000,2,Vizag
+1010,2025-03-05,Mouse,Accessories,800,3,Tirupati
+1011,2025-06-15,JoyStick,Electronics,15000,4,Kavali
